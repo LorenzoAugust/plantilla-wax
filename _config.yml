@@ -20,7 +20,7 @@
 title:            'Plantilla Wax'
 description:      'Colecciones Digitales'
 url:              'https://srsergiorodriguez.github.io' # Reemplazar por cuenta de github propia
-baseurl:          '/america' # Reemplazar por nombre del repositorio
+baseurl:          '/plantilla-wax' # Reemplazar por nombre del repositorio
 copyright:        'Derechos reservados, 2024'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
