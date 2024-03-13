@@ -99,3 +99,7 @@ Realiza los cambios necesarios y actualiza el servidor.
 Asegúrate de haber creado un *build* reciente siguiendo la instrucción del punto anterior. Si estás usando GitHub pages, haz un *push* de los cambios del repositorio que clonaste en tu propia cuenta. Es posible que Github te indique que debes hacer un *fork* del repositorio original al interior de tu cuenta.
 
 Ahora debes buscar tu repositorio clonado en tu cuenta de Github, hacer clic en el botón *settings* y, buscar el botón *pages* y, en la sección *Build and deployment* en la opción *Branch* escoger *main* y */(root)* y guardar. Esto creará una versión publicada en Github Pages.
+
+[Tutorial 1](https://youtu.be/82aTvPXY_qo?si=d1qe9stNUqVrX7r7)
+
+[Tutorial 2](https://youtu.be/GI5zvrfwBnw)
