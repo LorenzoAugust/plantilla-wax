@@ -59,13 +59,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  america: # OJO: Cambiar por nombre de la colección
+  coleccion: # OJO: Cambiar por nombre de la colección si es necesario
     output: true
-    layout: 'plantilla_item' # npmbre de la plantilla con la estructura de los ítems de la colección
+    layout: 'plantilla_item' # nombre de la plantilla con la estructura de los ítems de la colección
     metadata:
-      source: 'america.csv' # nombre del archivo con metadatos guardado en `_data`
+      source: 'coleccion.csv' # nombre del archivo con metadatos guardado en `_data`
     images:
-      source: 'raw_images/america' # ruta de la carpeta con imágenes guardada en `_data`
+      source: 'raw_images/coleccion' # ruta de la carpeta con imágenes guardada en `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -79,7 +79,7 @@ search:
   main:
     index: '/search/index.json'
     collections:
-      america: # OJO: Cambiar por nombre de la colección
+      coleccion: # OJO: Cambiar por nombre de la colección si es necesario
         content: false
         fields: # Metadatos que se indexarán
           - nombre
@@ -93,7 +93,7 @@ search:
 # (where it goes). An item can optionally have a dropdown
 # submenu via `sub`.
 
-menu: # Elementos que irán en el menú superior
+menu: # Elementos que irán en el menú superior, personalizar al gusto
   - label: 'Acerca'
     link: '/acerca/'
   - label: 'Exhibiciones'

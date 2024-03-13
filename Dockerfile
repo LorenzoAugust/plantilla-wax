@@ -1,7 +1,5 @@
 FROM ruby:3.2.2
 
-MAINTAINER Andrew Woods <awoods01@gmail.com>
-
 # Install apt dependencies
 RUN apt-get update -y
 RUN apt-get install -y --no-install-recommends \

@@ -10,13 +10,13 @@ Este es un ejemplo de una muestra que tiene como finalidad disponer texto junto 
 
 Este es un ejemplo de imagen incrustada con formato parallax (OJO: cambiar id y nombre de la colección):
 
-{% include parallax_image.html collection='america' pid='JohannSadeler' y='50%' clickable='true' %}
+{% include parallax_image.html collection='coleccion' pid='JohannSadeler' y='50%' clickable='true' %}
 
 Este es otro párrafo de texto.[^2] Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
 
 Este es un ejemplo de imagen con formato de recuadro:
 
-{% include inline_image.html collection='america' pid='PhilipsGalle2' clickable='true' %}
+{% include inline_image.html collection='coleccion' pid='PhilipsGalle2' clickable='true' %}
 
 Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor. Quisque viverra sem a orci aliquet sodales. Aliquam commodo eros at sagittis vehicula. Quisque in massa turpis. Aliquam aliquam consectetur magna non dignissim. Sed fringilla a ligula vitae molestie.
 

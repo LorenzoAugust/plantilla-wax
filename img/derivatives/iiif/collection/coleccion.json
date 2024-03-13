@@ -3,9 +3,9 @@ layout: none
 ---
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/america.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/coleccion.json",
   "@type": "sc:Collection",
-  "label": "america",
+  "label": "coleccion",
   "manifests": [
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/AdriaenCollaert/manifest.json",

@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  collection: america
+  collection: coleccion
   pid: PhilipsGalle
   y: 25%
   clickable: yes
@@ -16,4 +16,4 @@ Las imágenes usadas en esta pltanilla son de Dominio Público y provienen del a
 ### Busca la colección
 
 #### Por autor
-{% include collection_gallery.html facet_by='label' collection='america' %}
+{% include collection_gallery.html facet_by='label' collection='coleccion' %}

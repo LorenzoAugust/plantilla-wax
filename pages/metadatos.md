@@ -2,7 +2,7 @@
 layout: page
 title: Metadatos
 permalink: /metadatos/
-collection: america
+collection: coleccion
 ---
 
 Aquí puede descargarse la tabla con los metadatos de la colección:

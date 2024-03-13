@@ -7,9 +7,9 @@ layout: none
     "label": "America Tortuga",
     "autor": "Adriaen Collaert",
     "fecha": "1586",
-    "collection": "america",
+    "collection": "coleccion",
     "thumbnail": "/img/derivatives/iiif/images/AdriaenCollaert/full/250,/0/default.jpg",
-    "permalink": "/america/AdriaenCollaert",
+    "permalink": "/coleccion/AdriaenCollaert",
     "lunr_id": 0
   },
   {
@@ -17,9 +17,9 @@ layout: none
     "label": "America Loro",
     "autor": "Johann Sadeler",
     "fecha": "1581",
-    "collection": "america",
+    "collection": "coleccion",
     "thumbnail": "/img/derivatives/iiif/images/JohannSadeler/full/250,/0/default.jpg",
-    "permalink": "/america/JohannSadeler",
+    "permalink": "/coleccion/JohannSadeler",
     "lunr_id": 1
   },
   {
@@ -27,9 +27,9 @@ layout: none
     "label": "America Composición",
     "autor": "Philips Galle",
     "fecha": "1547",
-    "collection": "america",
+    "collection": "coleccion",
     "thumbnail": "/img/derivatives/iiif/images/PhilipsGalle/full/250,/0/default.jpg",
-    "permalink": "/america/PhilipsGalle",
+    "permalink": "/coleccion/PhilipsGalle",
     "lunr_id": 2
   },
   {
@@ -37,9 +37,9 @@ layout: none
     "label": "America Cabeza",
     "autor": "Philips Galle",
     "fecha": "1585",
-    "collection": "america",
+    "collection": "coleccion",
     "thumbnail": "/img/derivatives/iiif/images/PhilipsGalle2/full/250,/0/default.jpg",
-    "permalink": "/america/PhilipsGalle2",
+    "permalink": "/coleccion/PhilipsGalle2",
     "lunr_id": 3
   }
 ]
