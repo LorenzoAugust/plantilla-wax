@@ -21,5 +21,11 @@ Las imágenes usadas en esta plantilla son de Dominio Público y provienen del a
 #### Por autor
 {% include collection_gallery.html facet_by='Autor' collection='america' %}
 
-#### Por autor
-{% include collection_gallery.html facet_by='Autor' collection='america' %}
+#### Por titulo de publicacion
+{% include collection_gallery.html facet_by='Título de publicación' collection='america' %}
+
+#### Por fecha
+{% include collection_gallery.html facet_by='fecha' collection='america' %}
+
+#### Por seccion
+{% include collection_gallery.html facet_by='Sección' collection='america' %}
