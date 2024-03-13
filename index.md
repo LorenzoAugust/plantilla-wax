@@ -15,5 +15,5 @@ Las imágenes usadas en esta pltanilla son de Dominio Público y provienen del a
 
 ### Busca la colección
 
-#### Por autor
+#### Por etiqueta
 {% include collection_gallery.html facet_by='label' collection='coleccion' %}
