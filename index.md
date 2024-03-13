@@ -11,9 +11,12 @@ banner:
 
 Plantilla para colecciones en Wax: [Documentación](https://minicomp.github.io/wiki/#/wax/).
 
-Las imágenes usadas en esta pltanilla son de Dominio Público y provienen del archivo digital del [RijksMuseum](https://www.rijksmuseum.nl/nl)
+Las imágenes usadas en esta plantilla son de Dominio Público y provienen del archivo de María Mercedes Carranza que reposa en el BADAC [BADAC](https://badac.uniandes.edu.co/coleccion/fondo-maria-mercedes-carranza/)
 
 ### Busca la colección
 
 #### Por autor
-{% include collection_gallery.html facet_by='label' collection='america' %}
+{% include collection_gallery.html facet_by='Autor' collection='america' %}
+
+#### Por autor
+{% include collection_gallery.html facet_by='Autor' collection='america' %}
