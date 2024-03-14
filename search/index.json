@@ -3,43 +3,92 @@ layout: none
 ---
 [
   {
-    "pid": "AdriaenCollaert",
-    "label": "America Tortuga",
-    "autor": "Adriaen Collaert",
-    "fecha": "1586",
-    "collection": "america",
-    "thumbnail": "/img/derivatives/iiif/images/AdriaenCollaert/full/250,/0/default.jpg",
-    "permalink": "/america/AdriaenCollaert",
+    "pid": "MMC_FUN_CON_PRE_DOC001",
+    "label": "Prensa 1",
+    "Sección": "Portada",
+    "collection": "coleccion",
+    "thumbnail": "/img/derivatives/iiif/images/MMC_FUN_CON_PRE_DOC001/full/250,/0/default.jpg",
+    "permalink": "/coleccion/MMC_FUN_CON_PRE_DOC001",
     "lunr_id": 0
   },
   {
-    "pid": "JohannSadeler",
-    "label": "America Loro",
-    "autor": "Johann Sadeler",
-    "fecha": "1581",
-    "collection": "america",
-    "thumbnail": "/img/derivatives/iiif/images/JohannSadeler/full/250,/0/default.jpg",
-    "permalink": "/america/JohannSadeler",
+    "pid": "MMC_FUN_CON_PRE_DOC002",
+    "label": "Prensa 2",
+    "Sección": "Opinión",
+    "collection": "coleccion",
+    "thumbnail": "/img/derivatives/iiif/images/MMC_FUN_CON_PRE_DOC002/full/250,/0/default.jpg",
+    "permalink": "/coleccion/MMC_FUN_CON_PRE_DOC002",
     "lunr_id": 1
   },
   {
-    "pid": "PhilipsGalle",
-    "label": "America Composición",
-    "autor": "Philips Galle",
-    "fecha": "1547",
-    "collection": "america",
-    "thumbnail": "/img/derivatives/iiif/images/PhilipsGalle/full/250,/0/default.jpg",
-    "permalink": "/america/PhilipsGalle",
+    "pid": "MMC_FUN_CON_PRE_DOC003",
+    "label": "Prensa 3",
+    "Sección": "Política",
+    "collection": "coleccion",
+    "thumbnail": "/img/derivatives/iiif/images/MMC_FUN_CON_PRE_DOC003/full/250,/0/default.jpg",
+    "permalink": "/coleccion/MMC_FUN_CON_PRE_DOC003",
     "lunr_id": 2
   },
   {
-    "pid": "PhilipsGalle2",
-    "label": "America Cabeza",
-    "autor": "Philips Galle",
-    "fecha": "1585",
-    "collection": "america",
-    "thumbnail": "/img/derivatives/iiif/images/PhilipsGalle2/full/250,/0/default.jpg",
-    "permalink": "/america/PhilipsGalle2",
+    "pid": "MMC_FUN_CON_PRE_DOC004",
+    "label": "Prensa 4",
+    "Sección": "Política",
+    "collection": "coleccion",
+    "thumbnail": "/img/derivatives/iiif/images/MMC_FUN_CON_PRE_DOC004/full/250,/0/default.jpg",
+    "permalink": "/coleccion/MMC_FUN_CON_PRE_DOC004",
     "lunr_id": 3
+  },
+  {
+    "pid": "MMC_FUN_CON_PRE_DOC005",
+    "label": "Prensa 5",
+    "Sección": "Editorial",
+    "collection": "coleccion",
+    "thumbnail": "/img/derivatives/iiif/images/MMC_FUN_CON_PRE_DOC005/full/250,/0/default.jpg",
+    "permalink": "/coleccion/MMC_FUN_CON_PRE_DOC005",
+    "lunr_id": 4
+  },
+  {
+    "pid": "MMC_FUN_CON_PRE_DOC006",
+    "label": "Prensa 6",
+    "Sección": "Política",
+    "collection": "coleccion",
+    "thumbnail": "/img/derivatives/iiif/images/MMC_FUN_CON_PRE_DOC006/full/250,/0/default.jpg",
+    "permalink": "/coleccion/MMC_FUN_CON_PRE_DOC006",
+    "lunr_id": 5
+  },
+  {
+    "pid": "MMC_FUN_CON_PRE_DOC007",
+    "label": "Prensa 7",
+    "Sección": "Política",
+    "collection": "coleccion",
+    "thumbnail": "/img/derivatives/iiif/images/MMC_FUN_CON_PRE_DOC007/full/250,/0/default.jpg",
+    "permalink": "/coleccion/MMC_FUN_CON_PRE_DOC007",
+    "lunr_id": 6
+  },
+  {
+    "pid": "MMC_FUN_CON_PRE_DOC008",
+    "label": "Prensa 8",
+    "Sección": "s.i.",
+    "collection": "coleccion",
+    "permalink": "/coleccion/MMC_FUN_CON_PRE_DOC008",
+    "lunr_id": 7
+  },
+  {
+    "pid": "MMC_FUN_CON_PRE_DOC009",
+    "label": "Prensa 9",
+    "Sección": "s.i.",
+    "collection": "coleccion",
+    "thumbnail": "/img/derivatives/iiif/images/MMC_FUN_CON_PRE_DOC009/full/250,/0/default.jpg",
+    "permalink": "/coleccion/MMC_FUN_CON_PRE_DOC009",
+    "lunr_id": 8
+  },
+  {
+    "pid": "MMC_FUN_CON_PRE_DOC010",
+    "label": "Prensa 10",
+    "Sección": "Información general",
+    "collection": "coleccion",
+    "thumbnail": "/img/derivatives/iiif/images/MMC_FUN_CON_PRE_DOC010/full/250,/0/default.jpg",
+    "permalink": "/coleccion/MMC_FUN_CON_PRE_DOC010",
+    "lunr_id": 9
   }
 ]

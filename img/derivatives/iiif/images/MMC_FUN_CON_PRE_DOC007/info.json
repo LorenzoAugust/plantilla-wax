@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/MMC_FUN_CON_PRE_DOC007",
+  "protocol": "http://iiif.io/api/image",
+  "width": 5015,
+  "height": 6661,
+  "sizes": [
+    {
+      "width": 5015,
+      "height": 6661
+    },
+    {
+      "width": 250,
+      "height": 332
+    },
+    {
+      "width": 1140,
+      "height": 1514
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

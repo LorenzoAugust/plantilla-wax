@@ -1,0 +1,66 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/coleccion.json",
+  "@type": "sc:Collection",
+  "label": "coleccion",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "MMC_FUN_CON_PRE_DOC001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC002/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "MMC_FUN_CON_PRE_DOC002"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC003/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "MMC_FUN_CON_PRE_DOC003"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC004/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "MMC_FUN_CON_PRE_DOC004"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC005/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "MMC_FUN_CON_PRE_DOC005"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC006/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "MMC_FUN_CON_PRE_DOC006"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC007/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "MMC_FUN_CON_PRE_DOC007"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC008_FOL001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "MMC_FUN_CON_PRE_DOC008_FOL001"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC008_FOL002/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "MMC_FUN_CON_PRE_DOC008_FOL002"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC009/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "MMC_FUN_CON_PRE_DOC009"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC010/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "MMC_FUN_CON_PRE_DOC010"
+    }
+  ]
+}
