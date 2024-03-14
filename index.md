@@ -2,8 +2,8 @@
 layout: page
 show_title: false
 banner:
-  collection: america
-  pid: PhilipsGalle
+  collection: coleccion
+  pid: MMC_FUN_CON_PRE_DOC007
   y: 25%
   clickable: yes
   height: '500px'
@@ -19,13 +19,13 @@ Las imágenes usadas en esta plantilla son de Dominio Público y provienen del a
 ### Busca la colección
 
 #### Por autor
-{% include collection_gallery.html facet_by='Autor' collection='america' %}
+{% include collection_gallery.html facet_by='Autor' collection='coleccion' %}
 
 #### Por titulo de publicacion
-{% include collection_gallery.html facet_by='Título de publicación' collection='america' %}
+{% include collection_gallery.html facet_by='Título de publicación' collection='coleccion' %}
 
 #### Por fecha
-{% include collection_gallery.html facet_by='fecha' collection='america' %}
+{% include collection_gallery.html facet_by='fecha' collection='coleccion' %}
 
 #### Por seccion
-{% include collection_gallery.html facet_by='Sección' collection='america' %}
+{% include collection_gallery.html facet_by='Sección' collection='coleccion' %}
