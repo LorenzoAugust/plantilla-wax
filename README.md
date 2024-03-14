@@ -75,6 +75,10 @@ Se debe crear una tabla con metadatos, en formato .csv, que serán presentados e
 
 Las imágenes de la colección deben ponerse en la siguiente ruta dentro de la *carpeta del proyecto*: `_data/raw_images/coleccion`. Los formatos válidos son: png, jpg, tiff, y pdf. El nombre de cada imagen debe corresponder **exactamente** con el ***pid*** adecuado usado en las filas de la tabla de metadatos.
 
+#### 5.3. Ajustar la configuración
+
+Entra a _config.yml y edita los ítems url y baseurl para que correspondan con tu nombre de usuario de GitHub y el nombre de tu repositorio. También pudes cambiar otras configuraciones, como el título de la colección y su descripción.
+
 ### 6. Ejecutar las tareas de construcción del sitio de la colección
 
 Opcionalmente, antes de hacer todas estas tareas, puedes eliminar los resultados de tareas previas con la siguiente función, si quieres eliminar los archivos creados previamente:
@@ -113,7 +117,7 @@ Crear un índice de búsqueda:
 
 ### 7. Previsualizar el sitio
 
-Para previsualizar el sitio debes correr el siguiente código:
+Para previsualizar y generar la versión publicable el sitio debes correr el siguiente código:
 
 `sh generar_sitio.sh`
 
@@ -132,3 +136,7 @@ Ahora debes buscar tu repositorio clonado en tu cuenta de Github, hacer clic en 
 ### 9. Salir de wax
 
 Para salir de Wax en la línea de comandos ejecuta este código: `exit`
+
+### 10. Nuevas ediciones
+
+Para seguir editando el sitio debes retomar desde el punto 4.
