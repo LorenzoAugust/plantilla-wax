@@ -82,11 +82,13 @@ search:
       coleccion: # OJO: Cambiar por nombre de la colección si es necesario
         content: false
         fields: # Metadatos que se indexarán
-          - nombre
-          - autor
-          - fecha
+          - Título de publicación
+          - Autor
+          - dd
+          - mm
+          - YYYY
           - Sección
-          - Título de la publicación
+          - Lugar
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS

@@ -43,16 +43,6 @@ layout: none
       "label": "MMC_FUN_CON_PRE_DOC007"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC008_FOL001/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "MMC_FUN_CON_PRE_DOC008_FOL001"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC008_FOL002/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "MMC_FUN_CON_PRE_DOC008_FOL002"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/MMC_FUN_CON_PRE_DOC009/manifest.json",
       "@type": "sc:Manifest",
       "label": "MMC_FUN_CON_PRE_DOC009"

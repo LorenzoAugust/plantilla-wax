@@ -25,7 +25,7 @@ Las imágenes usadas en esta plantilla son de Dominio Público y provienen del a
 {% include collection_gallery.html facet_by='Título de publicación' collection='coleccion' %}
 
 #### Por fecha
-{% include collection_gallery.html facet_by='fecha' collection='coleccion' %}
+{% include collection_gallery.html facet_by='YYYY' collection='coleccion' %}
 
 #### Por seccion
 {% include collection_gallery.html facet_by='Sección' collection='coleccion' %}
