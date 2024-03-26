@@ -10,5 +10,5 @@ permalink: /explorar/
 {% include collection_gallery.html facet_by='Autor' collection='coleccion' %}
 ## Por titulo de la publicacion
 {% include collection_gallery.html facet_by='Título de la publicación' collection='coleccion' %}
-## Por seccion
-{% include collection_gallery.html facet_by='Sección' collection='coleccion' %}
+## Por lugar
+{% include collection_gallery.html facet_by='Lugar' collection='coleccion' %}
