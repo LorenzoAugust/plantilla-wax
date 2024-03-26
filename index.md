@@ -29,3 +29,5 @@ Las imágenes usadas en esta plantilla son de Dominio Público y provienen del a
 
 #### Por seccion
 {% include collection_gallery.html facet_by='Sección' collection='coleccion' %}
+#### Por etiqueta
+{% include collection_gallery.html facet_by='label' collection='coleccion' %}

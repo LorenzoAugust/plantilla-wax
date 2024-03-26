@@ -5,4 +5,4 @@ permalink: /explorar/
 ---
 
 ## Por fecha
-{% include collection_gallery.html facet_by='fecha' collection='america' %}
+{% include collection_gallery.html facet_by='fecha' collection='coleccion' %}
