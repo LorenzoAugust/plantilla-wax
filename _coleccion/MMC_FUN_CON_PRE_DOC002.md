@@ -1,6 +1,6 @@
 ---
 pid: MMC_FUN_CON_PRE_DOC002
-label: Prensa 2
+label: prensa 2
 Autor: D´Artagnan [Roberto Posada]
 Título de publicación: El Tiempo
 dd: '23'
@@ -10,8 +10,7 @@ Lugar: Bogotá
 N° de folios: '1'
 Tipo documental: Recorte de periódico
 Técnica: Dactilografía
-Sección: Opinión
-order: '01'
+order: '1'
 layout: plantilla_item
 collection: coleccion
 thumbnail: "/img/derivatives/iiif/images/MMC_FUN_CON_PRE_DOC002/full/250,/0/default.jpg"

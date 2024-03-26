@@ -1,6 +1,6 @@
 ---
 pid: MMC_FUN_CON_PRE_DOC006
-label: Prensa 6
+label: prensa 6
 Autor: Orlando Henríquez
 Título de publicación: El Espectador
 dd: '20'
@@ -10,8 +10,7 @@ Lugar: Bogotá
 N° de folios: '1'
 Tipo documental: Recorte de periódico
 Técnica: Dactilografía
-Sección: Política
-order: '05'
+order: '5'
 layout: plantilla_item
 collection: coleccion
 thumbnail: "/img/derivatives/iiif/images/MMC_FUN_CON_PRE_DOC006/full/250,/0/default.jpg"
